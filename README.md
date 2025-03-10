@@ -1,7 +1,7 @@
 # 2DPhysicsEngine
 A Simple 2d physics engine in pygame
 
-##circle class usage:
+## circle class usage:
 
 circle(loc_x, loc_y, radius) 
     // Initializes a circle object at position (loc_x, loc_y) with the specified radius.
