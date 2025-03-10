@@ -1,6 +1,19 @@
 # 2DPhysicsEngine
 A Simple 2d physics engine in pygame
 
+## Dependencies
+- pygame
+- time (built-in)
+- random (built-in)
+
+## Installation
+
+1. Clone this repo
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## circle class usage:
 
 **circle(loc_x, loc_y, radius)**
